@@ -57,7 +57,7 @@ void Breadbyte::menu()
 		cout << "\t\t\t Password: ";
 		cin >> password;
 
-		if (email == "1" && password == "2")
+		if (email == "breadbyte@gmail.com" && password == "7348")
 		{
 			administrator();
 		}
