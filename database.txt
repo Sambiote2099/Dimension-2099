@@ -1,0 +1,6 @@
+ 45 Bread 2 0
+ 14 Water 1 0
+ 78 Brioche 10.55 2
+ 68 Bagel 7 2
+ 12 Naan 3.5 0.2
+ 88 Lavash 8.69 2.5
